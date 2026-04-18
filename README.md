@@ -1,4 +1,4 @@
-# Java_Program1
+# Java_Programs
 Collection of basic Java programs and lab exercises implemented using Eclipse IDE.
 
 
