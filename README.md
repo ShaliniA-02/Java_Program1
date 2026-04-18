@@ -12,7 +12,4 @@ Java 1c p6 : https://github.com/user-attachments/assets/e495048d-0677-471c-b08a-
 Java 1c p7 : https://github.com/user-attachments/assets/5a1d6b77-4348-4c91-8201-3412b2bbc707  
 Java 1c p8 : https://github.com/user-attachments/assets/f0fb6cd0-b869-4ec7-b5b6-b6226ea69d56  
 Java 1c p9 : https://github.com/user-attachments/assets/56639c84-e7cf-440d-bb9b-c2b57e6439df  
-
-
-
-
+Java 1c p10 : https://github.com/user-attachments/assets/173f3500-8e7e-48b2-8d6b-29b78e42e3dd  
