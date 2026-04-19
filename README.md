@@ -16,8 +16,10 @@ Java 1c p10 : https://github.com/user-attachments/assets/173f3500-8e7e-48b2-8d6b
 StringHandlingDemo : https://github.com/user-attachments/assets/d4cf51d4-4cdb-476b-b225-c2ac27a1f6c0  
 https://github.com/user-attachments/assets/4d281378-90bd-4676-bdad-5dd1d4659a08     
 Performance Test : https://github.com/user-attachments/assets/a02acd05-5219-421b-86f5-8ee52c3c4055      
-StringExercisePrograms : https://github.com/user-attachments/assets/95fa0d00-b046-4779-a6ff-4f88879232d3
+StringExercisePrograms : https://github.com/user-attachments/assets/95fa0d00-b046-4779-a6ff-4f88879232d3   
 Swing Example : https://github.com/user-attachments/assets/a88a8708-ad80-45de-8d2c-e51a302cfe88    
 Button Example : https://github.com/user-attachments/assets/2db1c746-f9ae-41c1-ac70-4b542c826061  
 JList Example : https://github.com/user-attachments/assets/b9e72415-3f11-4805-904c-b7a4651ba919   
-output : https://github.com/user-attachments/assets/811adf52-1643-4ffc-b618-b1fcdfb1e112   
+output : https://github.com/user-attachments/assets/811adf52-1643-4ffc-b618-b1fcdfb1e112  
+TabbedPaneExample : https://github.com/user-attachments/assets/c20a5e6c-17b0-4699-a4d7-1690a1914a49   
+ 
