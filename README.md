@@ -43,16 +43,5 @@ Result Servlet i/p : https://github.com/user-attachments/assets/a7b5d7d3-040d-45
 Result Servlet o/p : https://github.com/user-attachments/assets/31237f4e-804a-496f-8eaf-4fce94e5f822    
 User Data Servlet i/p : https://github.com/user-attachments/assets/4f67464c-79ea-4662-97b4-6147e3d3f34e   
 User Data Servlet o/p : https://github.com/user-attachments/assets/6241090e-a794-45b1-881f-04fd9e9d47d6   
-
-
-
-
-
-
-
-
-
-
-
-
- 
+Prime Number o/p : https://github.com/user-attachments/assets/787ff4a7-81b1-40f5-9a7f-3b60c4f32d01   
+Prime Number o/p : https://github.com/user-attachments/assets/b73cb91e-3965-4cf5-87a0-c563d0b6ac4a
