@@ -41,6 +41,10 @@ CookieServlet o/p : https://github.com/user-attachments/assets/35c3a180-fca1-462
 SessionTrackingServlet : https://github.com/user-attachments/assets/4a626400-cdc9-47f6-b598-d8b019e17e38   
 Result Servlet i/p : https://github.com/user-attachments/assets/a7b5d7d3-040d-4551-a902-07a5427efe67   
 Result Servlet o/p : https://github.com/user-attachments/assets/31237f4e-804a-496f-8eaf-4fce94e5f822    
+User Data Servlet i/p : https://github.com/user-attachments/assets/4f67464c-79ea-4662-97b4-6147e3d3f34e   
+User Data Servlet o/p : https://github.com/user-attachments/assets/6241090e-a794-45b1-881f-04fd9e9d47d6   
+
+
 
 
 
