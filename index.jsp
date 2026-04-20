@@ -1,48 +1,43 @@
-<%@ page language="java" contentType="text/html;charset=UTF-8" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<title>Student Form</title>
-
-<script>
-function validate(){
-var f=document.forms["studentForm"];
-
-if(f.rollno.value=="" || f.name.value==""){
-alert("Roll No and Name required");
-return false;
+<title>User Data Form</title>
+<style>
+.form-container {
+width: 300px;
+margin: 50px auto;
+padding: 20px;
+border: 1px solid #ccc;
 }
-
-var subs=["sub1","sub2","sub3","sub4","sub5"];
-
-for(var i=0;i<subs.length;i++){
-var m=f[subs[i]].value;
-if(m=="" || isNaN(m) || m<0 || m>100){
-alert("Enter valid marks between 0 and 100");
-return false;
+.form-field {
+margin: 10px 0;
 }
-}
-return true;
-}
-</script>
+</style>
 </head>
-
 <body>
-<h2>Student Marks Entry</h2>
-
-<form name="studentForm" action="ResultServlet" method="post" onsubmit="return validate()">
-
-Roll No: <input type="text" name="rollno"><br><br>
-Name: <input type="text" name="name"><br><br>
-
-Sub1: <input type="text" name="sub1"><br>
-Sub2: <input type="text" name="sub2"><br>
-Sub3: <input type="text" name="sub3"><br>
-Sub4: <input type="text" name="sub4"><br>
-Sub5: <input type="text" name="sub5"><br><br>
-
+<div class="form-container">
+<h2>Enter User Data</h2>
+<form action="processUser" method="POST">
+<div class="form-field">
+<label for="username">Username 
+:</label>
+<input type="text" id="username" name="username" required>
+</div>
+<div class="form-field">
+<label for="email">Email
+:</label>
+<input type="email" id="email" name="email" required>
+</div>
+<div class="form-field">
+<label for="designation">Designation 
+:</label>
+<input type="text" id="designation" name="designation" required>
+</div>
+<div class="form-field">
 <input type="submit" value="Submit">
-
+</div>
 </form>
+</div>
 </body>
 </html>
