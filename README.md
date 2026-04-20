@@ -36,6 +36,8 @@ Session value : https://github.com/user-attachments/assets/b131b3b3-055d-4275-97
 Session End : https://github.com/user-attachments/assets/75569cbf-ed41-4366-a566-cc9149fa5b77   
 CookieServlet i/p : https://github.com/user-attachments/assets/84518de0-ed3e-4164-9a1e-a07c5d2c4a03   
 CookieServlet o/p : https://github.com/user-attachments/assets/35c3a180-fca1-4624-b095-dabfdaca96ad   
+8b i/p : https://github.com/user-attachments/assets/47ee2bc8-e643-49d2-a13a-8c8a64874661   
+8b o/p : https://github.com/user-attachments/assets/3f836f4c-00e3-445a-886f-52a69a3ef556   
 
 
 
